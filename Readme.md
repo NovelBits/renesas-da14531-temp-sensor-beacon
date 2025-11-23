@@ -9,7 +9,7 @@ Keywords:
 
 Description:
 
-This is SDK6 e² studio sample project known as empty_peripheral_template. Modified to impplement a Temperature Sensor Beacon using the MikroE Thermo 8 Click board.
+This is SDK6 e² studio sample project known as empty_peripheral_template. Modified to implement a Temperature Sensor Beacon using the MikroE Thermo 8 Click board.
 
 How to integrate into SDK6 and your local workspace:
 
