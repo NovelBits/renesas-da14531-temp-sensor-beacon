@@ -1,14 +1,23 @@
----
-name: empty_peripheral_template
-boards: [da14531, da14585]
-keywords:
-    - empty peripheral template
-    - sample project
+----
+Name: **empty_peripheral_template**
 
-description: |
-This is SDK6 e² studio sample project known as empty_peripheral_template. 
+Boards: (da14531, da14585)
 
----
+Keywords:
+- empty peripheral template
+- sample project
+
+Description:
+
+This is SDK6 e² studio sample project known as empty_peripheral_template. Modified to implement a Temperature Sensor Beacon using the MikroE Thermo 8 Click board.
+
+How to integrate into SDK6 and your local workspace:
+
+Place this folder inside <SDK6>/projects/target_apps/ble_examples
+
+Then, import into e2 studio.
+
+----
 
 # empty_peripheral_template
 
